@@ -6,7 +6,8 @@
     <br>Before that, I designed at GitHub for 6+ years!
       <br>I think GitHub is <em>so cool</em> and still use it :D
     <br>Today, I'm still learning to make things :sparkles:<br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    ![](./pika.gif)
+    <!-- <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"> -->
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com">Twitter</a>
   </samp>
 </p>
