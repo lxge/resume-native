@@ -1,26 +1,26 @@
 <center>
-     <h1>XiaoGeGe</h1>
+     <h1>😊XiaoGeGe</h1>
  </center>
 
-## 个人信息
+## 😘 个人信息
 
 - 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
 - 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 邮 箱：XXXXX@XXX.com
 - 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
-## 工作及教育经历
+## 😉 工作及教育经历
 
 - 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
 - XXXX 大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
 - XXXX 大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 
-## 专业技能
+## 😎 专业技能
 
 - 熟练使用 C++，掌握 Go，了解 Java、Python、PHP 等编程语言
 - 掌握基础数据结构和算法的基本原理
 - 等等
 
-## 项目经历
+## 💖 项目经历
 
 1. 公司/学校 - XXweb 服务器 - 独立开发 - 201508- 201512
 
@@ -35,25 +35,25 @@
    - 效果如何
    - demo 演示地址，github 地址
 
-## 获奖经历
+## 🎁 获奖经历
 
 - XXX 优秀新人
 - XXX 学生社团优秀干部
 - 竞赛 XXX 奖
 
-## 个人账号
+## 👦 个人账号
 
 - blog 地址 (附加自己博客特色，写了哪些技术文章)
 - github 地址 (附加自己 github 特色，突出的项目)
 
-## 其他信息
+## ✨ 其他信息
 
 - 喜欢钻研技术 等等
 - 性格开朗，喜欢跳舞，做个主持人 等等
 
 > 简历的 word 版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
 
-# 关于作者
+# ✌ 关于作者
 
 大家好，我是程序员 Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。
 
@@ -62,7 +62,7 @@
 <a name="微信"></a>
 <img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
 
-# 公众号
+# 🌤 公众号
 
 更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创 PDF。
 
